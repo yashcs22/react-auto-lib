@@ -2,7 +2,7 @@
     "extends": [
       "config:base"
     ],
-    "rangeStrategy": "pin",
+    "rangeStrategy": "auto",
     "packageRules": [
       {
         "packageNames": ["dependencies", "devDependencies"],
