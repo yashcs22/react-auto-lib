@@ -14,7 +14,7 @@
     ],
     "timezone": "Asia/Kolkata",
     "schedule": [
-      "after 7:10pm every weekday",
+      "after 8pm every weekday",
       "before 5am every weekday",
       "every weekend"
     ]
