@@ -4,6 +4,7 @@
     ],
     "packageRules": [
       {
+        "packageNames": ["dependencies", "devDependencies"],
         "updateTypes": [
           "minor",
           "patch"
@@ -13,7 +14,7 @@
     ],
     "timezone": "Asia/Kolkata",
     "schedule": [
-      "after 7pm every weekday",
+      "after 7:10pm every weekday",
       "before 5am every weekday",
       "every weekend"
     ]
