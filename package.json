@@ -38,6 +38,6 @@
     ]
   },
   "devDependencies": {
-    "bootstrap": "^3.3.6"
+    "bootstrap": "3.4.1"
   }
 }
